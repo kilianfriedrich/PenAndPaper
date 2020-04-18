@@ -1,6 +1,6 @@
 package kilianfriedrich.penandpaper.util
 
-import kotlin.Math.PI
+import kotlin.math.PI
 
 /**
  * Converts DEG to RAD
