@@ -1,10 +1,5 @@
 package kilianfriedrich.penandpaper.util
 
-import kilianfriedrich.penandpaper.Paper
-import kilianfriedrich.penandpaper.Pen
-import java.awt.Color
-import kotlin.math.PI
-
 /**
  * Converts DEG to RAD
  *
