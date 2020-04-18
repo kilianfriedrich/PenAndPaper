@@ -5,17 +5,6 @@ import kilianfriedrich.penandpaper.Pen
 import java.awt.Color
 import kotlin.math.PI
 
-fun main() {
-
-    val p = Paper()
-    val pen = Pen(p)
-    pen.moveTo(200.0, 200.0)
-    pen.turnTo(400.0, 400.0)
-    pen.down()
-    pen.write("HELLO WORLD")
-
-}
-
 /**
  * Converts DEG to RAD
  *
